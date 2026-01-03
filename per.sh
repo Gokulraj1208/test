@@ -1,0 +1,1 @@
+chown -R 8983:8983 /var/solr/data/local_dsx_contacts
